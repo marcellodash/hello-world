@@ -1,2 +1,5 @@
 # hello-world
-Test repository.
+
+Just going through the tutorial ... ignore me.
+
+http://www.danceswithferrets.org/
